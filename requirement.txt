@@ -1,0 +1,28 @@
+Tasks 
+1. Kaggle Account o 	Create an account on Kaggle (if you don’t already have one). https://www.kaggle.com/account/login 
+2. Dataset Selection 
+o	Choose a dataset from Kaggle or Zindi that interests you and is appropriate for machine learning. https://www.kaggle.com/datasets https://zindi.africa/competitions 
+o	Briefly explain the problem you are trying to solve with this dataset. Also Explain, is it a classification task, a regression problem, or something else? 
+3.	Kaggle Notebook Setup o 	Create a public Kaggle Notebook. 
+https://www.youtube.com/watch?v=rD6V7T8QzfY 
+	o 	Documentation: Every code block should be accompanied by a 
+Markdown cell explaining what the code does and why it is necessary. 
+4.	Data Exploration & Visualization o 	Use Pandas, Matplotlib, Seaborn (or similar libraries) to explore your data. o 	Generate relevant plots or charts to highlight key insights. 
+5. Data Cleaning 
+o	Handle missing values, remove duplicates, and process categorical data (e.g., via encoding). 
+o	Clear Explanations: Make sure each data preprocessing or feature engineering step is clearly documented and justified. 
+6. Model Training 
+o	Select a suitable machine learning model (e.g., Decision Tree, Random Forest, Neural Network, Linear Regression etc.). 
+o	Train the model using your prepared data. 
+o	Evaluation Metrics: Assess your model’s performance with at least one or two metrics such as accuracy, precision, recall, F1 score, MSE, or MAE—whichever is most relevant for your problem. 
+7.	Model Saving o 	Save your trained model (e.g., as a .pkl file) so it can be loaded in the deployment phase. 
+8.	Dashboard Creation o 	Build an interactive dashboard using Streamlit or Gradio (or a similar tool). 
+o 	Allow users to input data and receive real-time predictions from your model. 
+9.	Deployment o 	Deploy your dashboard to a free hosting platform such as Streamlit , Gradio Spaces on Hugging Face, or another free service. 
+https://www.gradio.app/guides/sharing-your-app https://share.streamlit.io/ https://huggingface.co/new-space o 	Ensure your application is publicly accessible. 
+  
+Submission Guidelines 1. Notebook 
+o 	Make your Kaggle Notebook public with all code, explanations, and visualizations. 
+2. Deployed App o 	Provide the link to your notebook and your deployed application in your final submission. 
+3. Presentation 
+o 	You will present your notebook and dashboard in class. No PowerPoint is required—simply walk through your notebook and demonstrate your deployed app. 
